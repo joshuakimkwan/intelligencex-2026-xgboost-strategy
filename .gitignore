@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+*.parquet
+logs/
+.lumibot/
+.DS_Store
+data/
+# Excluded from GitHub: rebuild weights with pretrain.py; price data belongs to the organisers
+weights/
+data/
+__pycache__/
+*.pyc
